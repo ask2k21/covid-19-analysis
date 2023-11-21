@@ -1,6 +1,6 @@
 # covid-19-analysis
 
-Analysis of covid 19 data
+Analysis of COVID 19 data. Correlating different features related to COVID-19.
 </br>
 Author: Srihith Gangishetti</br>
 
